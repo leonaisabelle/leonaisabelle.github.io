@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi! I&#39;m Leona</title>
-    <link>https://academia-hugo.netlify.com/categories/</link>
+    <link>https://leonaisabelle.github.io/categories/</link>
     <description>Recent content in Categories on Hi! I&#39;m Leona</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 19:49:01 +0200</lastBuildDate>
     
-	    <atom:link href="https://academia-hugo.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://leonaisabelle.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>data analysis</title>
-      <link>https://academia-hugo.netlify.com/categories/data-analysis/</link>
+      <link>https://leonaisabelle.github.io/categories/data-analysis/</link>
       <pubDate>Sun, 17 May 2020 19:49:01 +0200</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/categories/data-analysis/</guid>
+      <guid>https://leonaisabelle.github.io/categories/data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>public health</title>
-      <link>https://academia-hugo.netlify.com/categories/public-health/</link>
+      <link>https://leonaisabelle.github.io/categories/public-health/</link>
       <pubDate>Sun, 17 May 2020 19:49:01 +0200</pubDate>
       
-      <guid>https://academia-hugo.netlify.com/categories/public-health/</guid>
+      <guid>https://leonaisabelle.github.io/categories/public-health/</guid>
       <description></description>
     </item>
     
